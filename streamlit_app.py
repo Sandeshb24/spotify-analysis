@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import io
+import kagglehub
 import os # Import os module to handle file paths
 
 def run_analysis(df):
